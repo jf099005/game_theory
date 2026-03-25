@@ -19,7 +19,7 @@ besides, by $KPE=K(PE)\subseteq PE$ and $PKE=P(KE)\supseteq KE$, we can prove th
 
 <!-- --- -->
 
-$KE\stackrel{P2}{\subseteq}PKE \stackrel{P4}= P (PKE) \stackrel{K4}{\subseteq} K(P^2 KE) = KP(PKE) \stackrel{P4}=KPKE\stackrel{P4}=KKE=K^2 E$
+$KE\stackrel{P2}{\subseteq}PKE \stackrel{K4}=KPKE\stackrel{P4}=KKE=K^2 E$
 
 $\implies KE \subseteq K^2 E$
 
